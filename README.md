@@ -50,9 +50,10 @@ I have recently finished a Full Stack Developer Course from [Code Institute]() o
   <a href="https://github.com/HMuraja/denimstore-website">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=denimstore-website&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF&border=none" />
   </a>
-  <a href="https://github.com/HMuraja/mythology-quiz">
+    <a href="https://github.com/HMuraja/mythology-quiz">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=mythology-quiz&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
   </a>
+
 </div>
 
 <div>
@@ -65,8 +66,8 @@ I have recently finished a Full Stack Developer Course from [Code Institute]() o
 </div>
   
 <div>
-  <a href="https://github.com/HMuraja/p4-recipe-book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=p4-recipe-book&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
+  <a href="https://github.com/HMuraja/p5-book-review">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=p5-book-review&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
   </a>
 </div>
 
