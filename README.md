@@ -45,7 +45,7 @@ I have recently finished a Full Stack Developer Course from [Code Institute]() o
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## My Projects
+## My Projects 
 <div>
   <a href="https://github.com/HMuraja/denimstore-website">
     <img  src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=denimstore-website&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF&border=none" />
