@@ -1,16 +1,74 @@
-### Hi there 👋
+# About Me
+![View Counter](https://komarev.com/ghpvc/?username=HMuraja&style=for-the-badge&color=1D242E&label=👁)
 
-<!--
-**HMuraja/HMuraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Hilla Muraja a Junior Full Stack Developer located in :round_pushpin:Edinburgh Scotland. 
 
-Here are some ideas to get you started:
+I love bulding tools that simplify life and bring people joy. I am currently equipt with the tools to build full stack websites, check out my projects [here](#my-projects) to see some my example projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently improving my knowldge of SQL so I can become more proficient in handling data. 
+
+I have recently finished a Full Stack Developer Course from [Code Institute]() offered by [Learning People](). The course is rewarded with a Diploma, that is currently Pending.
+
+### :point_down: Contact Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](www.linkedin.com/in/hilla-muraja/)
+
+![Statisctics Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HMuraja&theme=city_lights)  
+
+## My Tools
+
+**Languages:**  
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
+![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
+
+**Frameworks:**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+
+**Version Control/IDE:**  
+![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
+[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/HMuraja)
+![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![Gitpod](https://img.shields.io/badge/Gitpod%20-%231D1D1D.svg?&style=for-the-badge&logo=Gitpod&logoColor=1AA6E4)
+
+**Hosting:**  
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+
+**Design/Wireframes:**  
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## My Projects
+<div>
+  <a href="https://github.com/HMuraja/denimstore-website">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=denimstore-website&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF&border=none" />
+  </a>
+  <a href="https://github.com/HMuraja/mythology-quiz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=mythology-quiz&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
+  </a>
+</div>
+
+<div>
+    <a href="https://github.com/HMuraja/cookie-factory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=cookie-factory&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
+  </a>
+  <a href="https://github.com/HMuraja/p4-recipe-book">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=p4-recipe-book&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
+  </a>
+</div>
+  
+<div>
+  <a href="https://github.com/HMuraja/p4-recipe-book">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=p4-recipe-book&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
+  </a>
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-fire-fly&layout=donut&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF)](https://github.com/anuraghazra/github-readme-stats)
+
