@@ -1,13 +1,11 @@
-# About Me
+![Banner](hm_banner.gif)
 ![View Counter](https://komarev.com/ghpvc/?username=HMuraja&style=for-the-badge&color=1D242E&label=👁)
 
-I am Hilla Muraja a Junior Full Stack Developer located in :round_pushpin:Edinburgh Scotland. 
+Hello, I am Hilla Muraja a Junior Full Stack Developer located in Edinburgh Scotland. 
 
-I love bulding tools that simplify life and bring people joy. I am currently equipt with the tools to build full stack websites, check out my projects [here](#my-projects) to see some my example projects.
+I love bulding tools that simplify life and bring people joy. I am currently equipt with the tools to build full stack websites, check out my projects [here](#my-projects).
 
-I am currently improving my knowldge of SQL so I can become more proficient in handling data. 
-
-I have recently finished a Full Stack Developer Course from [Code Institute]() offered by [Learning People](). The course is rewarded with a Diploma, that is currently Pending.
+I have recently finished a Full Stack Developer Course from [Code Institute]() offered by [Learning People](). The course is credit rated by Univerity of West Scotland as level 8 on SCQF, which is equivalent to Diploma of Higher Education. View my certificate [here](https://www.credential.net/3cea2a46-a098-421d-9193-c14e71c81a4f#gs.4qdw31).
 
 ### :point_down: Contact Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](www.linkedin.com/in/hilla-muraja/)
