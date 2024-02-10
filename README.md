@@ -19,48 +19,9 @@ Reach out :point_right: [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%2
 | **Hosting:**   | ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF) |
 | **Design/Wireframes:**  | ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 
-## My Projects
-
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/HMuraja/denimstore-website">
-        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=denimstore-website&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF&border=none" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/HMuraja/mythology-quiz">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=mythology-quiz&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/HMuraja/cookie-factory">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=cookie-factory&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
-      </a> 
-    </td>
-    <td>
-    <a href="https://github.com/HMuraja/p4-recipe-book">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=p4-recipe-book&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
-    </a> 
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/HMuraja/p5-book-review">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HMuraja&repo=p5-book-review&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF" />
-      </a>
-    </td>
-  </tr>
-  
-</table>
-
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-fire-fly&layout=donut&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF)](https://github.com/anuraghazra/github-readme-stats)
 ![Statisctics Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HMuraja&theme=city_lights)
 
-
+## My Projects :point_down:
