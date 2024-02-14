@@ -10,6 +10,10 @@ I have recently finished a Full Stack Developer Course from [Code Institute]() o
 Reach out :point_down:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](www.linkedin.com/in/hilla-muraja/)
 
+Dowload CV :outbox_tray:
+
+<a href="CV HillaMuraja.pdf" download target="_blank"> Click Here </a>
+
 ## Skill Stack
 
 | Category      | Skills |
