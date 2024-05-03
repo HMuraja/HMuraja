@@ -1,11 +1,11 @@
 
 ![Banner](hm_banner.gif)
 
-Hello, I am Hilla Muraja, a Junior Full Stack Developer located in Edinburgh Scotland.
+Hello, I am Hilla Muraja, a Junior Full Stack Developer located in Edinburgh 🏰 Scotland 󠁧󠁢󠁳🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 I build full-stack web applications and sites. I have pinned a few of my projects below 👇
 
-I currently hold a Diploma in Full Stack Development from [Code Institute]() offered by [Learning People](). The course is credit-rated by the Univerity of West Scotland as level 8 on SCQF, which is equivalent to a Diploma of Higher Education. View my certificate [here](https://www.credential.net/3cea2a46-a098-421d-9193-c14e71c81a4f#gs.4qdw31).
+I currently hold a Diploma :mortar_board: in Full Stack Development from [Code Institute]() offered by [Learning People](). The course is credit-rated by the Univerity of West Scotland as level 8 on SCQF, which is equivalent to a Diploma of Higher Education. View my certificate [here](https://www.credential.net/3cea2a46-a098-421d-9193-c14e71c81a4f#gs.4qdw31).
 
 Reach out :point_down:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](www.linkedin.com/in/hilla-muraja/)
