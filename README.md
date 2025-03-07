@@ -10,11 +10,6 @@ I currently hold a Diploma :mortar_board: in Full Stack Development from [Code I
 Reach out :point_down:   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](www.linkedin.com/in/hilla-muraja/)
 
-View My CV :outbox_tray:
-
-[Click Here](CV_HillaMuraja.pdf)
-
-
 ## Skill Stack
 
 | Category      | Skills |
